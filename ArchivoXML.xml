@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clase>
+  <asignatura>lenguajes de marcas</asignatura>
+    <profesor>
+     <nombre>Emilio</nombre>
+     <apellidos>Losa Catañer</apellidos>
+    </profesor>
+    <alumnos>
+     <alumno>
+      <nombre>Consuelo</nombre>
+      <apellidos>Frontera Reche</apellidos>
+     </alumno>
+     <alumno>
+      <nombre>Javier</nombre>
+      <apellidos>Rother Leones</apellidos>
+     </alumno>
+    </alumnos>
+</clase>
